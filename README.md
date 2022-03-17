@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @imprintnext-upendra
 - 👀 I’m interested in angular react node js php python
 - 🌱 I’m currently learning node js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me uzi@imprintmext.com
 
 <!---
